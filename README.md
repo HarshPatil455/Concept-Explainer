@@ -1,5 +1,3 @@
-# Concept-Explainer
-
 # 🌡 Thermodynamics Concept Explainer
 
 A Python-based command-line tool that explains key thermodynamics concepts in simple, concise terms — perfect for engineering students revising for exams or brushing up on core principles.
